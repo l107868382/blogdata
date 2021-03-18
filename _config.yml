@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 我的博客
+subtitle: 'Hello World!'
 description: ''
 keywords:
-author: John Doe
-language: en
+author: zhengtong.li
+language: zh_cn
 timezone: ''
 
 # URL
@@ -97,7 +97,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+#theme: landscape
+theme: hexo-theme-macleaya
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
